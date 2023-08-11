@@ -2,4 +2,12 @@
     <string name="app_name">TestAndroid</string>
     <string name="try_again">Try again</string>
     <string name="wait">Wait...</string>
+    <string name="create_person">Créer un utilisateur</string>
+    <string name="firstname">Nom</string>
+    <string name="lastname">Prénom</string>
+    <string name="birthday">Date de naissance</string>
+    <string name="done">Valider</string>
+    <string name="firstname_label">Nom:</string>
+    <string name="lastname_label">Prénom:</string>
+    <string name="birthday_label">Date naissance:</string>
 </resources>

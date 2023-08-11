@@ -54,4 +54,7 @@
     <dimen name="margin_650dp">650dp</dimen>
     <dimen name="margin_700dp">700dp</dimen>
     <dimen name="margin_210dp">210dp</dimen>
+    <dimen name="height_60dp">60dp</dimen>
+    <dimen name="padding_5dp">5dp</dimen>
+    <dimen name="margin_3dp">3dp</dimen>
 </resources>

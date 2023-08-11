@@ -3,8 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/user/Desktop/baha/Test/app/src/main/res/drawable/background_toolbar.xml" value="0.1305" />
+        <entry key="..\:/Users/user/Desktop/baha/Test/app/src/main/res/drawable/button_back.xml" value="0.1525" />
+        <entry key="..\:/Users/user/Desktop/baha/Test/app/src/main/res/drawable/custom_background_choose_country.xml" value="0.1525" />
+        <entry key="..\:/Users/user/Desktop/baha/Test/app/src/main/res/drawable/customer_gray_btn.xml" value="0.1525" />
+        <entry key="..\:/Users/user/Desktop/baha/Test/app/src/main/res/drawable/ic_arrow_up.xml" value="0.1525" />
+        <entry key="..\:/Users/user/Desktop/baha/Test/app/src/main/res/drawable/ic_calendar.xml" value="0.1525" />
+        <entry key="..\:/Users/user/Desktop/baha/Test/app/src/main/res/drawable/ic_checked_symbol.xml" value="0.1525" />
         <entry key="..\:/Users/user/Desktop/baha/Test/app/src/main/res/drawable/progresscustombg.xml" value="0.1385" />
-        <entry key="..\:/Users/user/Desktop/baha/Test/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/Users/user/Desktop/baha/Test/app/src/main/res/drawable/shap_background_toolbar.xml" value="0.1525" />
+        <entry key="..\:/Users/user/Desktop/baha/Test/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/user/Desktop/baha/Test/app/src/main/res/layout/item_person.xml" value="0.25" />
         <entry key="..\:/Users/user/Desktop/baha/Test/app/src/main/res/layout/progress_bar_dialog.xml" value="0.26875" />
       </map>
     </option>
